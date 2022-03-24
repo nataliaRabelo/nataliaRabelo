@@ -1,34 +1,27 @@
-## Natália Bruno Rabelo - Mestranda em Ciência da Informação PPGCI/UFF e graduanda em Sistemas de Informação UFF
+## Natália Bruno Rabelo  
+#### 🎓 Mestranda em Ciência da Informação PPGCI/UFF e graduanda em Sistemas de Informação UFF
+#### 👷‍♂️ Desenvolvedora Back-end 
 <div align="center">
   <a href="https://github.com/nataliaRabelo">
-   ## Linguagens de programação:
-    #1. C#
-  <img height="180em" src="https://www.google.com/search?q=C%23+FUNDO+TRANSPARENTE&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiZicul_d32AhXVH7kGHSJ6BeEQ_AUoAXoECAEQAw&biw=1920&bih=912&dpr=1#imgrc=fTJbhvjumQFGWM"/>
-    #2. SQL
-  <img height="180em" src="https://img2.gratispng.com/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b89919299aab1.1956912415357423546294.jpg"/>
-    #3. JAVA
-  <img height="180em" src="https://img2.gratispng.com/20180805/iot/kisspng-logo-java-runtime-environment-programming-language-java-util-concurrentmodificationexception-%C3%96mer-5b6766ab2d98b8.1809687115335031471868.jpg"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Nat-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Nat-Java" height="30" width="40" src="https://www.puppefy.nl/content/images/2017/01/java-logo.jpg">
+  <img align="center" alt="Nat-SQL" height="30" width="40" src="https://i.pinimg.com/564x/36/76/87/3676873088c7f6de4a38b6294cc7fdb0.jpg">
+  <img align="center" alt="Nat-C++" height="30" width="40" src="https://smashicons.com/uploads/media/icon_thumbnail/0004/80/36b21a7aa736a2742027c9ff1875f138cc71c0a9.png">
+  <img align="center" alt="Nat-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Nat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Nat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Nat-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQGbPXvTViCMQA/profile-displayphoto-shrink_800_800/0/1574040900987?e=2147483647&v=beta&t=hbJs2l6dFESH8ljO6dSQdZcV67ZAlh1_7kLm6q6x4FM">
 </div>
   
   ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:nataliabruno@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nat%C3%A1lia-bruno-rabelo-63ba68158/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://guaranta.faculdadeunifama.com.br/wp-content/uploads/2017/08/curriculo.png" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
