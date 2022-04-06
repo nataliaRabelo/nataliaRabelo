@@ -47,6 +47,6 @@
   ##
   
  
-  ![Snake animation](https://github.com/nataliaRabelo/nataliaRabelo/blob/05f3f491d535e28d6213a097199a21da6c4ceef8/cobrinha.yaml)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/edit/output/github-contribution-grid-snake.svg)
  
 </div>
