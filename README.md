@@ -30,7 +30,7 @@
   
   ##
   
- ###### ⚗️ Gerenciador de banco de dados
+ ###### ⚗️ Sistema gerenciador de banco de dados
   
   <a href="https://github.com/nataliaRabelo">
 </div>
