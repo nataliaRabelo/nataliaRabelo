@@ -1,5 +1,5 @@
 ## Natália Bruno Rabelo  ㅤㅤㅤㅤㅤㅤㅤㅤ☄️🌌🌠🪐🌀🌟
-#### 🎓 Mestranda em Ciência da Informação PPGCI/UFF e graduanda em Sistemas de Informação UFF
+#### 🎓 Sistemas de Informação - UFF
 #### 👷‍♂️ Desenvolvedora Back-end 
 ##
   ###### 🧮 Linguagens de programação 
