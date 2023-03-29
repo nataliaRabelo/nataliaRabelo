@@ -7,7 +7,7 @@
   <a href="https://github.com/nataliaRabelo">
 </div>
   <img align="center" alt="Nat-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Nat-Java" height="30" width="40" src="https://www.puppefy.nl/content/images/2017/01/java-logo.jpg">
+  <img align="center" alt="Nat-Java" height="30" width="40" src="[https://www.puppefy.nl/content/images/2017/01/java-logo.jpg](https://logospng.org/wp-content/uploads/java.png)">
   <img align="center" alt="Nat-SQL" height="30" width="40" src="https://i.pinimg.com/564x/36/76/87/3676873088c7f6de4a38b6294cc7fdb0.jpg">
   <img align="center" alt="Nat-C++" height="30" width="40" src="https://smashicons.com/uploads/media/icon_thumbnail/0004/80/36b21a7aa736a2742027c9ff1875f138cc71c0a9.png">
   <img align="center" alt="Nat-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
