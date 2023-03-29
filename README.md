@@ -13,7 +13,7 @@
   <img align="center" alt="Nat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Nat-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/80719401?s=400&v=4">
   <img align="right" alt="Nat-pic" height="150" style="border-radius:50px;" src="https://encryptedtbn0.gstatic.com/imagesq=tbn:ANd9GcTab05l3ndGtZqyqxgTeOkmB7g2eDGyYrQp60gRu108tIEXOLQTl8tf9Jpx90UiNJEIv1Q&usqp=CAU">
-  <img align="right" alt="Nat-pic" height="150" style="border-radius:50px;" src="https://bognarjunior.files.wordpress.com/2018/09/typescript.png">
+ 
 </div>
 ##
  #### 🛠️  Frameworks
