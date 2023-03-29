@@ -4,7 +4,6 @@
 ##
   ###### 🧮 Linguagens de programação 
 <div align="center">
-  <a href="https://github.com/nataliaRabelo">
 </div>
   <img align="center" alt="Nat-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Nat-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
@@ -19,7 +18,6 @@
   ##
   
   ###### 🎮 IDE 
-  <a href="https://github.com/nataliaRabelo">
 </div>
   <img align="center" alt="Nat-VS" height="30" width="40" src="https://camo.githubusercontent.com/39ddd51193b851f304bd6c335bc25a837ec7cafbbc4876fa78b994f5e95094ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f76697375616c73747564696f2f76697375616c73747564696f2d706c61696e2e737667">
   <img align="center" alt="Nat-VsCode" height="30" width="40" src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667">
@@ -31,12 +29,11 @@
   
  ###### ⚗️ Sistema gerenciador de banco de dados
   
-  <a href="https://github.com/nataliaRabelo">
 </div>
   <img align="center" alt="Nat-Postgress" height="30" width="40" src="https://camo.githubusercontent.com/d536b9cc0c533324368535ece721f5424f28eae3ec0e6f3847408948ecacfce6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667">
   <img align="center" alt="Nat-SQL Server" height="30" width="40" src="https://img.icons8.com/color/480/microsoft-sql-server.png">
   <img align="center" alt="Nat-MongoDB" height="30" width="40" src="https://www.ictdemy.com/images/5728/mdb.png">
-  <img align="center" alt="Nat-MongoDB" height="30" width="40" src="[https://www.ictdemy.com/images/5728/mdb.png](https://m.media-amazon.com/images/I/41QodfboFdL.png)">
+  <img align="center" alt="Nat-Oracle" height="30" width="40" src="https://m.media-amazon.com/images/I/41QodfboFdL.png">
     
 ##
   
