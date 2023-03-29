@@ -13,8 +13,18 @@
   <img align="center" alt="Nat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Nat-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/80719401?s=400&v=4">
+  <img align="right" alt="Nat-pic" height="150" style="border-radius:50px;" src="https://encryptedtbn0.gstatic.com/imagesq=tbn:ANd9GcTab05l3ndGtZqyqxgTeOkmB7g2eDGyYrQp60gRu108tIEXOLQTl8tf9Jpx90UiNJEIv1Q&usqp=CAU">
+  <img align="right" alt="Nat-pic" height="150" style="border-radius:50px;" src="https://bognarjunior.files.wordpress.com/2018/09/typescript.png">
 </div>
-  
+##
+  ###### 🛠️  Frameworks
+  <div>
+  <img align="center" alt="Nat-net" height="30" width="40" src="https://scand.com/wp-content/uploads/2021/04/Net.jpg">
+  <img align="center" alt="Nat-spring" height="30" width="40" src="https://programadoresbrasil.com.br/wp-content/uploads/2021/05/spring-framework.png">
+  <img align="center" alt="Nat-Angular" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png">
+  <img align="center" alt="Nat-Blazor" height="30" width="40" src="https://eximia.co/wp-content/uploads/2021/05/BrandBlazor_nohalo_1000x.png">
+  <img align="center" alt="Nat-React" height="30" width="40" src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.pngg">
+</div>   
   ##
   
   ###### 🎮 IDE 
@@ -29,12 +39,12 @@
   
  ###### ⚗️ Sistema gerenciador de banco de dados
   
-</div>
+<div>
   <img align="center" alt="Nat-Postgress" height="30" width="40" src="https://camo.githubusercontent.com/d536b9cc0c533324368535ece721f5424f28eae3ec0e6f3847408948ecacfce6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667">
   <img align="center" alt="Nat-SQL Server" height="30" width="40" src="https://img.icons8.com/color/480/microsoft-sql-server.png">
   <img align="center" alt="Nat-MongoDB" height="30" width="40" src="https://www.ictdemy.com/images/5728/mdb.png">
-  <img align="center" alt="Nat-Oracle" height="30" width="40" src="https://m.media-amazon.com/images/I/41QodfboFdL.png">
-    
+  <img align="center" alt="Nat-Oracle" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d6/%D8%A6%DB%86%D8%B1%D8%A7%DA%A9%DA%B5.png">
+</div>   
 ##
   
 <div> 
