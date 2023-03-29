@@ -1,7 +1,7 @@
 ## Natália Bruno Rabelo  ㅤㅤㅤㅤㅤㅤㅤㅤ☄️🌌🌠🪐🌀🌟
-#### 🎓 Sistemas de Informação - UFF
-#### 👷‍♂️ Desenvolvedora Back-end 
-###### 🧮 Linguagens de programação 
+### 🎓 Sistemas de Informação - UFF
+### 👷‍♂️ Desenvolvedora Back-end 
+#### 🧮 Linguagens de programação 
 <div align="center">
 </div>
   <img align="center" alt="Nat-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -15,7 +15,7 @@
   <img align="right" alt="Nat-pic" height="150" style="border-radius:50px;" src="https://encryptedtbn0.gstatic.com/imagesq=tbn:ANd9GcTab05l3ndGtZqyqxgTeOkmB7g2eDGyYrQp60gRu108tIEXOLQTl8tf9Jpx90UiNJEIv1Q&usqp=CAU">
   <img align="right" alt="Nat-pic" height="150" style="border-radius:50px;" src="https://bognarjunior.files.wordpress.com/2018/09/typescript.png">
 </div>
- ###### 🛠️  Frameworks
+ #### 🛠️  Frameworks
   <div>
   <img align="center" alt="Nat-net" height="30" width="40" src="https://scand.com/wp-content/uploads/2021/04/Net.jpg">
   <img align="center" alt="Nat-spring" height="30" width="40" src="https://programadoresbrasil.com.br/wp-content/uploads/2021/05/spring-framework.png">
@@ -23,14 +23,14 @@
   <img align="center" alt="Nat-Blazor" height="30" width="40" src="https://eximia.co/wp-content/uploads/2021/05/BrandBlazor_nohalo_1000x.png">
   <img align="center" alt="Nat-React" height="30" width="40" src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.pngg">
 </div>   
- ###### 🎮 IDE 
+ #### 🎮 IDE 
 </div>
   <img align="center" alt="Nat-VS" height="30" width="40" src="https://camo.githubusercontent.com/39ddd51193b851f304bd6c335bc25a837ec7cafbbc4876fa78b994f5e95094ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f76697375616c73747564696f2f76697375616c73747564696f2d706c61696e2e737667">
   <img align="center" alt="Nat-VsCode" height="30" width="40" src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667">
 </div>
   <img align="center" alt="Nat-IntelliJ" height="30" width="40" src="https://img2.gratispng.com/20180913/uto/kisspng-intellij-idea-jetbrains-integrated-development-env-5b9a70df9dd6c3.3468850615368480956465.jpg">
 </div>
- ###### ⚗️ Sistema gerenciador de banco de dados
+ #### ⚗️ Sistema gerenciador de banco de dados
   
 <div>
   <img align="center" alt="Nat-Postgress" height="30" width="40" src="https://camo.githubusercontent.com/d536b9cc0c533324368535ece721f5424f28eae3ec0e6f3847408948ecacfce6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667">
