@@ -51,7 +51,32 @@ Natália Bruno Rabelo ☄️🌌🌠🪐🌀🌟
   <a href = "mailto:nataliabruno@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nat%C3%A1lia-bruno-rabelo-63ba68158/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2448461E1&tokenCaptchar=03AGdBq27_PsvDwvTC3QmP-Z7tslO6UC8A0SQiT6mSxDz_8Um6gz2-unk2Hj-Lzf2Ol0_ItTcW0vRBks21FW51b81ze_ZvnHPh6vRV-kWZYsdkp-gKoC3J0QWXENHmYa5ipBGx_XKdTzFF-rPju3Nv3syuigAbNuz5sLmBhA5jC8hCV_63gJa7gYKZRjoJdFjLFHU-8ndv3fZYITeVvEDOYiR_6hV-9XBOehoUzavthkt8FVHdzA58LrAS9hqAKl-ECOSOMaoTzZobUtPPi201d2HgxL0NGopt6VopWaBVWVhL08nXSt7ZLT6RwmqRHXhV1DbJ87tweq5I75mq7g1BnkRWmSVzU_GOii7aMrwygZFD2rdpRKU8BBag7d-5QNSxO8NBERXn1Qg4Mzc3hk1_WZGP8tuqHzoCvfpMaMjt828fxs9_XRLzTk3KZ6UON_OVm5f8ie9cHLQk4wPe7IJRtxrmA0jytyWSbQ" target="_blank"><img src="https://hc.unicamp.br/wp-content/uploads/2020/04/icon-lattes.png" target="_blank" height="30" width="40"></a> 
-  
- 
+<style>
+  .github-calendar-graph {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .github-calendar-graph rect {
+    animation: dance 2s linear infinite alternate;
+  }
+
+  @keyframes dance {
+    0% {
+      fill: #FF00FF; /* Magenta */
+      transform: translateY(0);
+    }
+    50% {
+      fill: #00FF00; /* Verde */
+      transform: translateY(-5px);
+    }
+    100% {
+      fill: #FF00FF; /* Magenta */
+      transform: translateY(0);
+    }
+  }
+</style>
+
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
+
