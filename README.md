@@ -25,8 +25,7 @@ Natália Bruno Rabelo ☄️🌌🌠🪐🌀🌟
 ##
 
 ### 🎮 IDE
-
-<img align="center" alt="Nat-VS" height="30" width="40" src="https://camo.githubusercontent.com/39ddd51193b851f304bd6c335bc25a837ec7cafbbc4876fa78b994f5e95094ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f76697375616c73747564696f2f76697375616c73747564696f2d706c61696e2e737667">
+<img align="center" alt="Nat-VS" height="30" width="40" src="https://camo.githubusercontent.com/39ddd51193b851f304bd6c335bc25a837ec7cafbbc4876fa78b994f5e95094ac/68747470733a2f2f63646e2e6a7364656c6976722e6n65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f76697375616c73747564696f2f76697375616c73747564696f2d706c61696e2e737667">
 <img align="center" alt="Nat-VsCode" height="30" width="40" src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667">
 <img align="center" alt="Nat-IntelliJ" height="30" width="40" src="https://th.bing.com/th/id/R.798bf802666049b6d02c396f0ca7781b?rik=xLact1RJaSqTDg&pid=ImgRaw&r=0">
 </div>
@@ -34,9 +33,8 @@ Natália Bruno Rabelo ☄️🌌🌠🪐🌀🌟
 ##
 
 ### ⚗️ Sistema gerenciador de banco de dados
-  
 <div>
-  <img align="center" alt="Nat-Postgress" height="30" width="40" src="https://camo.githubusercontent.com/d536b9cc0c533324368535ece721f5424f28eae3ec0e6f3847408948ecacfce6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636o6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667">
+  <img align="center" alt="Nat-Postgress" height="30" width="40" src="https://camo.githubusercontent.com/d536b9cc0c533324368535ece721f5424f28eae3ec0e6f3847408948ecacfce6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667">
   <img align="center" alt="Nat-SQL Server" height="30" width="40" src="https://img.icons8.com/color/480/microsoft-sql-server.png">
   <img align="center" alt="Nat-MongoDB" height="30" width="40" src="https://www.ictdemy.com/images/5728/mdb.png">
   <img align="center" alt="Nat-Oracle" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d6/%D8%A6%DB%86%D8%B1%D8%A7%DA%A9%DA%B5.png">
@@ -45,11 +43,9 @@ Natália Bruno Rabelo ☄️🌌🌠🪐🌀🌟
 ##
 
 <div> 
-  <a href="mailto:nataliabruno@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:nataliabruno@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nat%C3%A1lia-bruno-rabelo-63ba68158/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2448461E1&tokenCaptchar=03AGdBq27_PsvDwvTC3QmP-Z7tslO6UC8A0SQiT6mSxDz_8Um6gz2-unk2Hj-Lzf2Ol0_ItTcW0vRBks21FW51b81ze_ZvnHPh6vRV-kWZYsdkp-gKoC3J0QWXENHmYa5ipBGx_XKdTzFF-rPju3Nv3syuigAbNuz5sLmBhA5jC8hCV_63gJa7gYKZRjoJdFjLFHU-8ndv3fZYITeVvEDOYiR_6hV-9XBOehoUzavthkt8FVHdzA58LrAS9hqAKl-ECOSOMaoTzZobUtPPi201d2HgxL0NGopt6VopWaBVWVhL08nXSt7ZLT6RwmqRHXhV1DbJ87tweq5I75mq7g1BnkRWmSVzU_GOii7aMrwygZFD2rdpRKU8BBag7d-5QNSxO8NBERXn1Qg4Mzc3hk1_WZGP8tuqHzoCvfpMaMjt828fxs9_XRLzTk3KZ6UON_OVm5f8ie9cHLQk4wPe7IJRtxrmA0jytyWSbQ" target="_blank"><img src="https://hc.unicamp.br/wp-content/uploads/2020/04/icon-lattes.png" target="_blank" height="30" width="40"></a> 
-  
- 
+
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
